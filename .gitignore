@@ -1,0 +1,5 @@
+gitea
+postgres
+.env
+*ignore*
+!.gitignore
